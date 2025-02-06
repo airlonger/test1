@@ -7,5 +7,6 @@
 </head>
 <body>
     <p>We have a thing to do, now and forever</p>
+    <p>always checkout to your brach and pull from the dev branch before commiting your changes to your branch</p>
 </body>
 </html>
